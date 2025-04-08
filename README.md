@@ -7,7 +7,7 @@
 
 ---
 
-### 🚀 Mi Perfil
+### 🚀 Sobre mi
 
 Soy un desarrollador web comprometido, con dominio avanzado de **HTML5** y **CSS3** y en constante perfeccionamiento en **Java** y **MySQL**. Mi pasión es transformar ideas en soluciones digitales concretas y eficientes. Colaboro con equipos que buscan innovación y excelencia en cada proyecto, y siempre estoy listo para nuevos desafíos.
 
