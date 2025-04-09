@@ -35,19 +35,6 @@ Soy un desarrollador web comprometido, con dominio avanzado de **HTML5** y **CSS
 
 ---
 
-### 🎓 Formación Académica
-
-- **Sistemas Informáticos y Redes (Grado Medio)**  
-  *IES Cristóbal de Monrroy • 2021 - 2023*
-
-- **Desarrollo de Aplicaciones Web (Grado Superior)**  
-  *IES Cristóbal de Monrroy • 2024 - Actualidad*
-
-- **Desarrollo y Diseño Web**  
-  *FreeCodeCamp • 2024 - Actualidad*
-
----
-
 ### 📫 Contacto
 
 - [✉️ Email](mailto:tu-correo@ejemplo.com)
