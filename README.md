@@ -37,7 +37,7 @@ Soy un desarrollador web comprometido, con dominio avanzado de **HTML5** y **CSS
 
 ### 📫 Contacto
 
-- [✉️ Email - no disponible ahora](https://zequi22.github.io/CameraNetAI/)
+- [✉️ Email - no disponible ahora](#)
 - [📄 Ver mi CV - no disponible ahora](#)
 - [🌐 Portafolio - Beta](https://zequi22.github.io/Zequi22_P/)
 
