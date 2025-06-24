@@ -14,7 +14,7 @@
 
 ### 🚀 Sobre mí
 
-Soy un desarrollador web comprometido, con dominio avanzado de **HTML5** y **CSS3**, y en constante perfeccionamiento en **Java**, **MySQL** y **XML**. Mi pasión es transformar ideas en soluciones digitales concretas y eficientes, colaborando con equipos que buscan innovación y excelencia en cada proyecto.
+Soy un desarrollador web comprometido, con dominio avanzado de **HTML5** , **CSS3** , **Java** y **MySQL** y en constante perfeccionamiento . Mi pasión es transformar ideas en soluciones digitales concretas y eficientes, colaborando con equipos que buscan innovación y excelencia en cada proyecto.
 
 ---
 
@@ -30,8 +30,8 @@ Soy un desarrollador web comprometido, con dominio avanzado de **HTML5** y **CSS
 </p>
 
 **Nivel de experiencia:**
-- **HTML5 / CSS3:** Avanzado  
-- **Java / MySQL / XML:** En aprendizaje continuo
+- **HTML5 / CSS3 / Java / MySQL:** Avanzado  
+- **XML / JSON / GIT y más:** En aprendizaje continuo
 
 ---
 
