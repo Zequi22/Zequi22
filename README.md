@@ -39,7 +39,7 @@ Soy un desarrollador web comprometido, con dominio avanzado de **HTML5** , **CSS
 
 - [✉️ Email - no disponible ahora](#)
 - [📄 Ver mi CV - no disponible ahora](#)
-- [🌐 Portafolio - Beta](https://zequi22.github.io/Zequi22_P/)
+- [🌐 Portafolio - Beta](https://zequi22.github.io/EzequielProfile/)
 
 <!-- Ola inferior decorativa -->
 <p align="center">
