@@ -1,4 +1,5 @@
 <!-- Ola superior decorativa -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=header"/>
 </p>
@@ -12,9 +13,16 @@
 
 ---
 
+### 🌐 Portafolio
+
+🔗 [**Mi portafolio web**](https://zequi22.github.io/EzequielProfile) *(en mejora continua)*
+
+---
+
 ### 🚀 Sobre mí
 
-Soy un desarrollador web comprometido, con dominio avanzado de **HTML5** , **CSS3** , **Java** y **MySQL** y en constante perfeccionamiento . Mi pasión es transformar ideas en soluciones digitales concretas y eficientes, colaborando con equipos que buscan innovación y excelencia en cada proyecto.
+Soy un desarrollador web comprometido, con dominio avanzado de **HTML5**, **CSS3**, **Java** y **MySQL**, y en constante perfeccionamiento.
+Mi pasión es transformar ideas en soluciones digitales concretas y eficientes, colaborando con equipos que buscan innovación y excelencia en cada proyecto.
 
 ---
 
@@ -26,22 +34,25 @@ Soy un desarrollador web comprometido, con dominio avanzado de **HTML5** , **CSS
   <a href="#"><img src="https://img.shields.io/badge/CSS3-2196F3?style=flat-square&logo=css3&logoColor=white" alt="CSS3"></a>
   <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java"></a>
   <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"></a>
-  <a href="#"><img src="https://img.shields.io/badge/XML-006699?style=flat-square&logo=xml&logoColor=white" alt="XML"></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></a>
+  <a href="#"><img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON"></a>
 </p>
 
 **Nivel de experiencia:**
-- **HTML5 / CSS3 / Java / MySQL:** Avanzado  
-- **XML / JSON / GIT y más:** En aprendizaje continuo
+
+* **HTML5 / CSS3 / Java / MySQL:** Avanzado
+* **JavaScript / JSON / GIT:** En aprendizaje continuo
 
 ---
 
 ### 📫 Contacto
 
-- [✉️ Email - no disponible ahora](#)
-- [📄 Ver mi CV - no disponible ahora](#)
-- [🌐 Portafolio - Beta](https://zequi22.github.io/EzequielProfile/)
+✉️ **Email:** [tuemail@correo.com](ezequielcamposdev@gmail.com)
+
+---
 
 <!-- Ola inferior decorativa -->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=100&section=footer"/>
 </p>
