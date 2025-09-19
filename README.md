@@ -25,24 +25,13 @@ Soy un desarrollador web comprometido, con dominio avanzado de **HTML5**, **CSS3
 Mi pasión es transformar ideas en soluciones digitales concretas y eficientes, colaborando con equipos que buscan innovación y excelencia en cada proyecto.
 
 ---
-
-### 🛠️ Habilidades Técnicas
-
-<p align="center">
-  <!-- Badges de tecnologías -->
-  <a href="#"><img src="https://img.shields.io/badge/HTML5-FF6F00?style=flat-square&logo=html5&logoColor=white" alt="HTML5"></a>
-  <a href="#"><img src="https://img.shields.io/badge/CSS3-2196F3?style=flat-square&logo=css3&logoColor=white" alt="CSS3"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java"></a>
-  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"></a>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></a>
-  <a href="#"><img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON"></a>
-</p>
-
-**Nivel de experiencia:**
-
-* **HTML5 / CSS3 / Java / MySQL:** Avanzado
-* **JavaScript / JSON / GIT:** En aprendizaje continuo
-
+🛠️ Habilidades Técnicas
+🔥 Avanzado
+<p align="center"> <a href="#"><img src="https://img.shields.io/badge/HTML5-FF6F00?style=flat-square&logo=html5&logoColor=white" alt="HTML5"></a> <a href="#"><img src="https://img.shields.io/badge/CSS3-2196F3?style=flat-square&logo=css3&logoColor=white" alt="CSS3"></a> <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java"></a> <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"></a> </p>
+✅ Aprendido
+<p align="center"> <a href="#"><img src="https://img.shields.io/badge/XML-006699?style=flat-square&logo=xml&logoColor=white" alt="XML"></a> </p>
+📚 Aprendiendo
+<p align="center"> <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></a> <a href="#"><img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON"></a> <a href="#"><img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"></a> </p>
 ---
 
 ### 📫 Contacto
