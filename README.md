@@ -26,6 +26,7 @@ Mi pasión es transformar ideas en soluciones digitales concretas y eficientes, 
 
 ---
 🛠️ Habilidades Técnicas
+
 🔥 Avanzado
 <p align="left"> <a href="#"><img src="https://img.shields.io/badge/HTML5-FF6F00?style=flat-square&logo=html5&logoColor=white" alt="HTML5"></a> <a href="#"><img src="https://img.shields.io/badge/CSS3-2196F3?style=flat-square&logo=css3&logoColor=white" alt="CSS3"></a> <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java"></a> <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"></a> </p>
 ✅ Aprendido
