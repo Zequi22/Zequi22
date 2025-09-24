@@ -32,7 +32,7 @@ Mi pasión es transformar ideas en soluciones digitales concretas y eficientes, 
 ✅ Aprendido
 <p align="left"> <a href="#"><img src="https://img.shields.io/badge/XML-006699?style=flat-square&logo=xml&logoColor=white" alt="XML"></a><a href="#"><img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON"></a> </p>
 📚 Aprendiendo
-<p align="left"> <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></a>  <a href="#"><img src="https://img.shields.io/badge/GIT-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"></a> </p>
+<p align="left"> <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></a> </p>
 ---
 
 ### 📫 Contacto
