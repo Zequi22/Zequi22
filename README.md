@@ -15,7 +15,7 @@
 
 ### 🌐 Portafolio
 
-🔗 [**Mi portafolio web**](https://zequi22.github.io/EzequielProfile) *(en mejora continua)*
+🔗 [**Mi portafolio web**](https://ezequieldevportfolio.netlify.app/) *(en mejora continua)*
 
 ---
 
