@@ -34,7 +34,7 @@ Mi pasión es transformar ideas en soluciones digitales concretas y eficientes, 
   <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"></a> 
 </p>
 
-<p align="right"> 
+<p align="left"> 
   <a href="#"><img src="https://img.shields.io/badge/XML-006699?style=flat-square&logo=xml&logoColor=white" alt="XML"></a>
   <a href="#"><img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON"></a> 
 </p>
