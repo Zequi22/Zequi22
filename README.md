@@ -34,16 +34,18 @@ Mi pasión es transformar ideas en soluciones digitales concretas y eficientes, 
   <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"></a> 
 </p>
 
-<p align="left"> 
+<p align="right"> 
   <a href="#"><img src="https://img.shields.io/badge/XML-006699?style=flat-square&logo=xml&logoColor=white" alt="XML"></a>
   <a href="#"><img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON"></a> 
 </p>
 
 📚 Aprendiendo
 <p align="left"> 
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Filament-FFA116?style=flat-square&logo=filament&logoColor=black" alt="Filament PHP"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"></a>
   <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP"></a>
-  <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"></a>
 </p>
 
 ---
