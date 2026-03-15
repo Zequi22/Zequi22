@@ -28,7 +28,7 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Sobre mí
 
 ```javascript
 const ezequiel = {
@@ -52,7 +52,7 @@ Busco proyectos y oportunidades donde pueda aportar, aprender y crecer junto a e
 
 ---
 
-## 🛠️ Tecnologías & Herramientas
+## <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30"> Tecnologías & Herramientas
 
 **Lenguajes**
 <p align="left">
@@ -80,7 +80,7 @@ Busco proyectos y oportunidades donde pueda aportar, aprender y crecer junto a e
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 </p>
 
-**📚 Aprendiendo activamente**
+**<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="22"> Aprendiendo activamente**
 <p align="left">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Filament-FFA116?style=for-the-badge&logoColor=black"/>
@@ -93,7 +93,7 @@ Busco proyectos y oportunidades donde pueda aportar, aprender y crecer junto a e
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zequi22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&hide=prs" height="165"/>
@@ -108,7 +108,7 @@ Busco proyectos y oportunidades donde pueda aportar, aprender y crecer junto a e
 
 ---
 
-## 📫 Contacto
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Contacto
 
 <p align="center">
   <a href="mailto:ezequielcamposdev@gmail.com">
