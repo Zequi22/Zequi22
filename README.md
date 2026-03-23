@@ -35,16 +35,17 @@ const ezequiel = {
   ubicación:    "España 🇪🇸",
   rol:          "Full Stack Junior Developer",
   formación:    "DAW — Desarrollo de Aplicaciones Web (en progreso)",
-  stack:        ["Laravel", "Filament", "PHP", "JavaScript", "MySQL"],
-  aprendiendo:  ["Laravel avanzado", "Filament PHP", "n8n", "IA Workflows"],
+  stack:        ["Laravel", "Filament", "PHP", "JavaScript", "MySQL", "React", "Tailwind CSS"],
+  herramientas: ["Git", "GitHub", "VS Code", "Eclipse IDE", "Vite", "Make"],
+  aprendiendo:  ["Laravel avanzado", "Filament PHP", "Make", "IA Workflows", "React", "Tailwind CSS"],
   intereses:    ["Automatización con IA", "Backend escalable", "UI moderna"],
   disponible:   true
 };
 ```
 
-Soy un **desarrollador Full Stack Junior** con enfoque en crear aplicaciones web modernas y funcionales. Actualmente profundizando en **Laravel** y **Filament PHP** para construir backends robustos y paneles de administración elegantes. Manejo **HTML, CSS, JavaScript, Java y MySQL**, y me apasiona el diseño limpio orientado al usuario.
+Soy un **desarrollador Full Stack Junior** con enfoque en crear aplicaciones web modernas y funcionales. Actualmente profundizando en Laravel y Filament PHP para construir backends robustos y paneles de administración elegantes. Manejo HTML, CSS, JavaScript, PHP, Java y MySQL, con experiencia en frameworks como React y Tailwind CSS, y herramientas como Vite y Make.
 
-Mi próximo gran interés es el mundo de la **automatización con Inteligencia Artificial** — especialmente herramientas como **n8n** para construir flujos de trabajo inteligentes que conecten servicios y optimicen procesos. Creo que la IA aplicada al desarrollo es el siguiente nivel, y quiero estar ahí.
+Mi próximo gran interés es el mundo de la automatización con Inteligencia Artificial — especialmente herramientas como Make o n8n para construir flujos de trabajo inteligentes que conecten servicios y optimicen procesos. Creo que la IA aplicada al desarrollo es el siguiente nivel, y quiero estar ahí.
 
 Busco proyectos y oportunidades donde pueda aportar, aprender y crecer junto a equipos que valoren la innovación. 🚀
 
