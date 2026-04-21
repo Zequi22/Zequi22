@@ -101,7 +101,6 @@ Busco proyectos y oportunidades donde pueda aportar, aprender y crecer junto a e
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zequi22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&hide=prs" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zequi22&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
