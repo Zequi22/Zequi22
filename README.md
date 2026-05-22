@@ -1,143 +1,234 @@
-<!-- Banner superior -->
+<!-- HEADER -->
+
 <p align="center">
-<img width="4048" height="1618" alt="Airbrush-IMAGE-ENHANCER-1779449702325-1779449702325" src="https://github.com/user-attachments/assets/33674fe7-439b-4786-bb2f-d436cc408ab6" />
+  <img src="https://github.com/user-attachments/assets/33674fe7-439b-4786-bb2f-d436cc408ab6" width="100%" alt="Banner Ezequiel Campos"/>
+</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=80&section=header&fontSize=0"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Full+Stack+Junior+Developer;Laravel+%7C+Filament+PHP+%7C+React;Automatizacion+con+IA+%7C+Make+%7C+n8n;Disponible+para+trabajar" alt="Typing SVG"/>
 </p>
 
-<!-- Texto animado -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Junior+Developer+%F0%9F%9A%80;Laravel+%7C+Filament+%7C+PHP;HTML+%7C+CSS+%7C+JavaScript;Automatizaciones+con+IA+%F0%9F%A4%96;n8n+%7C+AI+Workflows;Disponible+para+trabajar+%F0%9F%9F%A2" alt="Typing SVG" />
+  <a href="https://ezequieldevportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-7B2FBE?style=for-the-badge&logo=netlify&logoColor=white"/></a>
+  &nbsp;
+  <a href="mailto:ezequielcamposdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ezequiel-campos-mart%C3%ADn-2b109b390/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://github.com/Zequi22"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://discord.gg/zequi_22"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
-<!-- Badges de contacto -->
 <p align="center">
-  <a href="https://ezequieldevportfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-0072ff?style=for-the-badge"/>
-  </a>
-  <a href="mailto:ezequielcamposdev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ezequiel-campos-mart%C3%ADn-2b109b390/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Zequi22">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Zequi22&label=Visitas+al+perfil&color=7B2FBE&style=flat-square"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
+<br/><br/>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">              Sobre mí
+<!-- ─────────────────────────────────────────── -->
+<!-- SOBRE MI                                    -->
+<!-- ─────────────────────────────────────────── -->
+
+<h2 align="center">Sobre mí</h2>
+
+<br/>
+<img width="300" height="448" align="right" alt="logoCompleta" src="https://github.com/user-attachments/assets/99d1625c-09ff-43e1-b728-f9a1210a591a" style="margin-left: 20px;" />
 
 ```javascript
 const ezequiel = {
-  ubicación:    "España 🇪🇸",
+  ubicacion:    "Espana",
   rol:          "Full Stack Junior Developer",
-  formación:    "DAW — Desarrollo de Aplicaciones Web (en progreso)",
-  stack:        ["Laravel", "Filament", "PHP", "JavaScript", "MySQL", "React", "Tailwind CSS"],
-  herramientas: ["Git", "GitHub", "VS Code", "Eclipse IDE", "Vite", "Make"],
-  aprendiendo:  ["Laravel avanzado", "Filament PHP", "Make", "IA Workflows", "React", "Tailwind CSS"],
-  intereses:    ["Automatización con IA", "Backend escalable", "UI moderna"],
+  formacion:    "DAW — Desarrollo de Aplicaciones Web",
+  empresa:      "Practicas en Talention (Full Stack)",
+  stack:        ["Laravel", "Filament PHP", "PHP",
+                 "JavaScript", "MySQL", "React",
+                 "Tailwind CSS", "PostgreSQL"],
+  herramientas: ["Git", "GitHub", "VS Code",
+                 "Vite", "Make"],
+  aprendiendo:  ["Laravel avanzado", "Filament PHP",
+                 "IA Workflows", "React", "n8n"],
+  intereses:    ["Automatizacion con IA",
+                 "Backend escalable", "UI moderna"],
   disponible:   true
 };
 ```
 
-Soy un **desarrollador Full Stack Junior** con enfoque en crear aplicaciones web modernas y funcionales. Actualmente profundizando en Laravel y Filament PHP para construir backends robustos y paneles de administración elegantes. Manejo HTML, CSS, JavaScript, PHP, Java y MySQL, con experiencia en frameworks como React y Tailwind CSS, y herramientas como Vite y Make.
+Soy un **desarrollador Full Stack Junior** en prácticas, trabajando con Laravel, React y PostgreSQL en un entorno real de empresa. Me especializo en construir backends robustos con Filament PHP y paneles de administración elegantes.
 
-Mi próximo gran interés es el mundo de la automatización con Inteligencia Artificial — especialmente herramientas como Make o n8n para construir flujos de trabajo inteligentes que conecten servicios y optimicen procesos. Creo que la IA aplicada al desarrollo es el siguiente nivel, y quiero estar ahí.
+Mi siguiente gran apuesta es la **automatización con IA** — herramientas como Make y n8n para conectar servicios y optimizar procesos.
 
-Busco proyectos y oportunidades donde pueda aportar, aprender y crecer junto a equipos que valoren la innovación. 🚀
+<br clear="right"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/><br/>
 
+---
 
+<br/><br/>
 
-## <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30"> Tecnologías & Herramientas
+<!-- ─────────────────────────────────────────── -->
+<!-- TECNOLOGIAS                                 -->
+<!-- ─────────────────────────────────────────── -->
+
+<h2 align="center">Tecnologías & Herramientas</h2>
+
+<br/>
 
 **Lenguajes**
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<br/>
 
 **Frameworks & Librerías**
-<p align="left">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Filament-FFA116?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-FFA116?style=for-the-badge&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+<br/>
 
 **Herramientas & Entornos**
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white"/>
-</p>
 
-**<img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="22"> Aprendiendo activamente**
-<p align="left">
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Filament-FFA116?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IA%20Workflows-blueviolet?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
 
+**Aprendiendo activamente**
 
+![Laravel Avanzado](https://img.shields.io/badge/Laravel_Avanzado-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Filament PHP](https://img.shields.io/badge/Filament_PHP-FFA116?style=for-the-badge&logoColor=black)
+![IA Workflows](https://img.shields.io/badge/IA_Workflows-A855F7?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
+<br/><br/>
+
+---
+
+<br/><br/>
+
+<!-- ─────────────────────────────────────────── -->
+<!-- PROYECTOS                                   -->
+<!-- ─────────────────────────────────────────── -->
+
+<h2 align="center">Proyectos Destacados</h2>
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Compliance</h3>
+      <p align="center"><img src="https://img.shields.io/badge/GESTIÓN_LEGAL-7B2FBE?style=flat-square&logoColor=white"/></p>
+      <p>Plataforma integral para la gestión de cumplimiento normativo y legal. Desarrollada con Laravel y Filament PHP, integrando plugins nativos para el seguimiento de auditorías, riesgos y documentación técnica.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Filament-FFA116?style=flat-square"/>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Camera Net AI</h3>
+      <p align="center"><img src="https://img.shields.io/badge/IA_EN_TIEMPO_REAL-A855F7?style=flat-square&logoColor=white"/></p>
+      <p>Detección de objetos en tiempo real con IA directamente en el navegador. Usa TensorFlow.js para reconocer elementos desde la cámara con alta precisión, sin necesidad de backend.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/Zequi22/CameraNetAI"><img src="https://img.shields.io/badge/Codigo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+        <a href="https://zequi22.github.io/CameraNetAI/"><img src="https://img.shields.io/badge/Demo-A855F7?style=for-the-badge&logoColor=white"/></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zequi22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&hide=prs" height="165"/>
+  <a href="https://ezequieldevportfolio.netlify.app/proyectos/">
+    <img src="https://img.shields.io/badge/Ver_todos_los_proyectos-7B2FBE?style=for-the-badge&logo=netlify&logoColor=white"/>
+  </a>
 </p>
 
+<br/><br/>
+
+---
+
+<br/><br/>
+
+<!-- ─────────────────────────────────────────── -->
+<!-- GITHUB STATS                                -->
+<!-- ─────────────────────────────────────────── -->
+
+<h2 align="center">GitHub Stats</h2>
+
+<br/>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zequi22&theme=tokyo-night&hide_border=true&area=true&hide_title=true" width="95%"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Contacto
-
-<p align="center">
-  <a href="mailto:ezequielcamposdev@gmail.com">
-    <img src="https://img.shields.io/badge/ezequielcamposdev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/ezequiel-campos-mart%C3%ADn-2b109b390/">
-    <img src="https://img.shields.io/badge/Ezequiel%20Campos%20Martín-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://ezequieldevportfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Mi%20Portafolio-00C6FF?style=for-the-badge&logo=netlify&logoColor=white"/>
-  </a>
-  <a href="https://discord.gg/zequi_22">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
+  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zequi22&theme=tokyonight&hide_border=true&ring=A855F7&fire=7B2FBE&currStreakLabel=A855F7"/>
 </p>
 
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zequi22&label=Visitas&color=0072ff&style=flat-square"/>
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zequi22&theme=tokyo-night&hide_border=true&area=true&hide_title=true&line=A855F7&point=7B2FBE&color=A855F7"/>
 </p>
 
-<!-- Banner inferior -->
+<br/><br/>
+
+---
+
+<br/><br/>
+
+<!-- ─────────────────────────────────────────── -->
+<!-- CONTACTO                                    -->
+<!-- ─────────────────────────────────────────── -->
+
+<h2 align="center">Contacto</h2>
+
+<br/>
+
+<p align="center">Disponible para proyectos, oportunidades de empleo o simplemente una charla sobre desarrollo web.</p>
+
+<br/>
+
 <p align="center">
-<img width="1920" height="1080" alt="9070324cdfc07c68d60eed0c39e77573" src="https://github.com/user-attachments/assets/381a04f5-e551-49cb-9162-abd96c24603e" />
-
+  <a href="mailto:ezequielcamposdev@gmail.com">
+    <img src="https://img.shields.io/badge/ezequielcamposdev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ezequiel-campos-mart%C3%ADn-2b109b390/">
+    <img src="https://img.shields.io/badge/Ezequiel_Campos_Martín-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://ezequieldevportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portafolio-7B2FBE?style=for-the-badge&logo=netlify&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://discord.gg/zequi_22">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=100&section=footer"/>
