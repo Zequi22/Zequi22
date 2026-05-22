@@ -1,6 +1,6 @@
 <!-- Banner superior -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Ezequiel%20Campos&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Junior%20Developer&descAlignY=58&descAlign=50&animation=fadeIn"/>
+<img width="4048" height="1618" alt="Airbrush-IMAGE-ENHANCER-1779449702325-1779449702325" src="https://github.com/user-attachments/assets/33674fe7-439b-4786-bb2f-d436cc408ab6" />
 </p>
 
 <!-- Texto animado -->
@@ -138,5 +138,6 @@ Busco proyectos y oportunidades donde pueda aportar, aprender y crecer junto a e
 
 <!-- Banner inferior -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&text=¡Gracias%20por%20visitar!&fontSize=24&fontColor=ffffff&fontAlignY=65"/>
+<img width="1920" height="1080" alt="9070324cdfc07c68d60eed0c39e77573" src="https://github.com/user-attachments/assets/381a04f5-e551-49cb-9162-abd96c24603e" />
+
 </p>
