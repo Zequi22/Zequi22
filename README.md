@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/33674fe7-439b-4786-bb2f-d436cc408ab6" width="100%" alt="Banner Ezequiel Campos"/>
 </p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=80&section=header&fontSize=0"/>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Full+Stack+Junior+Developer;Laravel+%7C+Filament+PHP+%7C+React;Automatizacion+con+IA+%7C+Make+%7C+n8n;Disponible+para+trabajar" alt="Typing SVG"/>
 </p>
