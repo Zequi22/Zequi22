@@ -26,16 +26,13 @@
 
 
 
-<br/><br/>
+<br/>
 
 <!-- ─────────────────────────────────────────── -->
 <!-- SOBRE MI                                    -->
 <!-- ─────────────────────────────────────────── -->
 
 <h2 align="center">Sobre mí</h2>
-
-<br/>
-<img width="300" height="448" align="right" alt="logoCompleta" src="https://github.com/user-attachments/assets/99d1625c-09ff-43e1-b728-f9a1210a591a" style="margin-left: 20px;" />
 
 ```javascript
 const ezequiel = {
@@ -74,7 +71,6 @@ Mi siguiente gran apuesta es la **automatización con IA** — herramientas como
 
 <h2 align="center">Tecnologías & Herramientas</h2>
 
-<br/>
 
 **Lenguajes**
 
@@ -127,7 +123,6 @@ Mi siguiente gran apuesta es la **automatización con IA** — herramientas como
 
 <h2 align="center">Proyectos Destacados</h2>
 
-<br/>
 
 <table width="100%">
   <tr>
@@ -179,13 +174,6 @@ Mi siguiente gran apuesta es la **automatización con IA** — herramientas como
 
 <h2 align="center">GitHub Stats</h2>
 
-<br/>
-
-<p align="center">
-  <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zequi22&theme=tokyonight&hide_border=true&ring=A855F7&fire=7B2FBE&currStreakLabel=A855F7"/>
-</p>
-
-<br/>
 
 <p align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zequi22&theme=tokyo-night&hide_border=true&area=true&hide_title=true&line=A855F7&point=7B2FBE&color=A855F7"/>
@@ -203,7 +191,6 @@ Mi siguiente gran apuesta es la **automatización con IA** — herramientas como
 
 <h2 align="center">Contacto</h2>
 
-<br/>
 
 <p align="center">Disponible para proyectos, oportunidades de empleo o simplemente una charla sobre desarrollo web.</p>
 
@@ -228,7 +215,5 @@ Mi siguiente gran apuesta es la **automatización con IA** — herramientas como
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
-
-<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=100&section=footer"/>
