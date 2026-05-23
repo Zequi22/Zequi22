@@ -60,9 +60,6 @@ Mi siguiente gran apuesta es la **automatización con IA** — herramientas como
 
 <br/><br/>
 
----
-
-<br/><br/>
 
 <!-- ─────────────────────────────────────────── -->
 <!-- TECNOLOGIAS                                 -->
@@ -112,9 +109,6 @@ Mi siguiente gran apuesta es la **automatización con IA** — herramientas como
 
 <br/><br/>
 
----
-
-<br/><br/>
 
 <!-- ─────────────────────────────────────────── -->
 <!-- PROYECTOS                                   -->
@@ -161,9 +155,7 @@ Mi siguiente gran apuesta es la **automatización con IA** — herramientas como
   </a>
 </p>
 
-<br/><br/>
 
----
 
 <br/><br/>
 
@@ -177,10 +169,6 @@ Mi siguiente gran apuesta es la **automatización con IA** — herramientas como
 <p align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zequi22&theme=tokyo-night&hide_border=true&area=true&hide_title=true&line=A855F7&point=7B2FBE&color=A855F7"/>
 </p>
-
-<br/><br/>
-
----
 
 <br/><br/>
 
@@ -215,4 +203,5 @@ Mi siguiente gran apuesta es la **automatización con IA** — herramientas como
   </a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=100&section=footer"/>
+<img width="1280" height="586" alt="167220fb4f5d929ccffbf2751183baf1" src="https://github.com/user-attachments/assets/857a549e-26ff-45ad-85c4-5419c435c6ec" />
+
