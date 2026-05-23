@@ -203,5 +203,6 @@ Mi siguiente gran apuesta es la **automatización con IA** — herramientas como
   </a>
 </p>
 
-<img width="1280" height="586" alt="167220fb4f5d929ccffbf2751183baf1" src="https://github.com/user-attachments/assets/857a549e-26ff-45ad-85c4-5419c435c6ec" />
+<img width="1279" height="720" alt="c94a714c70a29ca4dbebd89ed0627c13" src="https://github.com/user-attachments/assets/a6b054b4-266b-4e59-870b-a281e8b776dd" />
+
 
