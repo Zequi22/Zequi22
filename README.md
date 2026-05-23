@@ -36,7 +36,6 @@ const ezequiel = {
   ubicacion:    "Espana",
   rol:          "Full Stack Junior Developer",
   formacion:    "DAW — Desarrollo de Aplicaciones Web",
-  empresa:      "Practicas en Talention (Full Stack)",
   stack:        ["Laravel", "Filament PHP", "PHP",
                  "JavaScript", "MySQL", "React",
                  "Tailwind CSS", "PostgreSQL"],
@@ -50,7 +49,7 @@ const ezequiel = {
 };
 ```
 
-Soy un **desarrollador Full Stack Junior** en prácticas, trabajando con Laravel, React y PostgreSQL en un entorno real de empresa. Me especializo en construir backends robustos con Filament PHP y paneles de administración elegantes.
+Desarrollador con una obsesión clara: la fluidez. Mi meta es que cada clic y cada interacción se sienta natural y sin esfuerzo. Entre el backend robusto y el diseño elegante, siempre llevo conmigo mi 'vagón de tren',una metáfora de mi trayectoria, de lo que he aprendido en el camino y de la energía con la que abordo cada nuevo reto
 
 Mi siguiente gran apuesta es la **automatización con IA** — herramientas como Make y n8n para conectar servicios y optimizar procesos.
 
