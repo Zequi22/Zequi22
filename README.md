@@ -130,20 +130,6 @@ Mi siguiente gran apuesta es la **automatización con IA** — herramientas como
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Camera Net AI</h3>
-      <p align="center"><img src="https://img.shields.io/badge/IA_EN_TIEMPO_REAL-A855F7?style=flat-square&logoColor=white"/></p>
-      <p>Detección de objetos en tiempo real con IA directamente en el navegador. Usa TensorFlow.js para reconocer elementos desde la cámara con alta precisión, sin necesidad de backend.</p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-      </p>
-      <p align="center">
-        <a href="https://github.com/Zequi22/CameraNetAI"><img src="https://img.shields.io/badge/Codigo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-        <a href="https://zequi22.github.io/CameraNetAI/"><img src="https://img.shields.io/badge/Demo-A855F7?style=for-the-badge&logoColor=white"/></a>
-      </p>
-    </td>
   </tr>
 </table>
 
