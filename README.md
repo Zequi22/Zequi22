@@ -14,8 +14,6 @@
   &nbsp;
   <a href="https://www.linkedin.com/in/ezequiel-campos-mart%C3%ADn-2b109b390/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   &nbsp;
-  <a href="https://github.com/Zequi22"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  &nbsp;
   <a href="https://discord.gg/zequi_22"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
