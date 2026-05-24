@@ -174,7 +174,7 @@ Mi siguiente gran apuesta es la **automatización con IA** — herramientas como
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ezequiel-campos-mart%C3%ADn-2b109b390/">
-    <img src="https://img.shields.io/badge/Ezequiel_Campos_Martín-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://ezequieldevportfolio.netlify.app/">
