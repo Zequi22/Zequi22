@@ -10,11 +10,13 @@
 <p align="center">
   <a href="https://ezequieldevportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-7B2FBE?style=for-the-badge&logo=netlify&logoColor=white"/></a>
   &nbsp;
-  <a href="mailto:ezequielcamposdev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:ezequielcamposdev@gmail.com">
+    <img src="https://img.shields.io/badge/ezequielcamposdev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/ezequiel-campos-mart%C3%ADn-2b109b390/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   &nbsp;
-  <a href="https://discord.gg/zequi_22"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+ 
 </p>
 
 <p align="center">
