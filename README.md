@@ -115,30 +115,32 @@ Mi siguiente gran apuesta es la **automatización con IA** — herramientas como
 
 <h2 align="center">Proyectos Destacados</h2>
 
-
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Compliance</h3>
       <p align="center"><img src="https://img.shields.io/badge/GESTIÓN_LEGAL-7B2FBE?style=flat-square&logoColor=white"/></p>
-      <p>Plataforma integral para la gestión de cumplimiento normativo y legal. Desarrollada con Laravel y Filament PHP, integrando plugins nativos para el seguimiento de auditorías, riesgos y documentación técnica.</p>
+      <p>Plataforma integral para la gestión de cumplimiento normativo y legal. Desarrollada con Laravel y Filament PHP, e integrando varios plugins para ampliar funcionalidades como el seguimiento de auditorías, riesgos y documentación técnica. La interfaz está construida con Tailwind CSS para un diseño limpio y responsive.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
         <img src="https://img.shields.io/badge/Filament-FFA116?style=flat-square"/>
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      </p>
+    </td>
+    <td width="50%" valign="middle">
+      <p align="center">
+        <img width="100%" alt="Demo de Compliance" src="https://github.com/user-attachments/assets/6a9c3369-fdab-4064-a56c-5c4d0d174782"/>
       </p>
     </td>
   </tr>
 </table>
-
-<br/>
-
 <p align="center">
-  <a href="https://ezequieldevportfolio.netlify.app/proyectos/">
-    <img src="https://img.shields.io/badge/Ver_todos_los_proyectos-7B2FBE?style=for-the-badge&logo=netlify&logoColor=white"/>
-  </a>
-</p>
+        <a href="https://ezequieldevportfolio.netlify.app/proyectos/">
+          <img src="https://img.shields.io/badge/Ver_todos_los_proyectos-7B2FBE?style=for-the-badge&logo=netlify&logoColor=white"/>
+        </a>
+      </p>
 
 
 
