@@ -154,7 +154,7 @@ Mi siguiente gran apuesta es la **automatización con IA** — herramientas como
 
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zequi22&theme=tokyo-night&hide_border=true&area=true&hide_title=true&line=A855F7&point=7B2FBE&color=A855F7"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zequi22&theme=tokyo-night&hide_border=true&area=true&hide_title=true&line=A855F7&point=7B2FBE&color=A855F7"/>
 </p>
 
 <br/><br/>
